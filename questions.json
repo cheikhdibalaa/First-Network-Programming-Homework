@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["A. Cairo", "B. Alexandria", "C. Giza"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": ["A. Jeddah", "B. Mecca", "C. Riyadh"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of Jordan?",
+    "options": ["A. Amman", "B. Aqaba", "C. Zarqa"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Lebanon?",
+    "options": ["A. Tripoli", "B. Beirut", "C. Sidon"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Iraq?",
+    "options": ["A. Basra", "B. Erbil", "C. Baghdad"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "options": ["A. Marrakech", "B. Rabat", "C. Casablanca"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Tunisia?",
+    "options": ["A. Sfax", "B. Sousse", "C. Tunis"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of Algeria?",
+    "options": ["A. Oran", "B. Algiers", "C. Constantine"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Sudan?",
+    "options": ["A. Omdurman", "B. Khartoum", "C. Port Sudan"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Libya?",
+    "options": ["A. Benghazi", "B. Misrata", "C. Tripoli"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of Yemen?",
+    "options": ["A. Aden", "B. Sana'a", "C. Taiz"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Oman?",
+    "options": ["A. Muscat", "B. Salalah", "C. Sohar"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Qatar?",
+    "options": ["A. Al Rayyan", "B. Doha", "C. Al Wakrah"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Bahrain?",
+    "options": ["A. Manama", "B. Muharraq", "C. Riffa"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Kuwait?",
+    "options": ["A. Salmiya", "B. Hawalli", "C. Kuwait City"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of United Arab Emirates?",
+    "options": ["A. Dubai", "B. Abu Dhabi", "C. Sharjah"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of Syria?",
+    "options": ["A. Aleppo", "B. Homs", "C. Damascus"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of Somalia?",
+    "options": ["A. Mogadishu", "B. Hargeisa", "C. Kismayo"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Mauritania?",
+    "options": ["A. Nouakchott", "B. Nouadhibou", "C. Kiffa"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the capital of Djibouti?",
+    "options": ["A. Tadjoura", "B. Ali Sabieh", "C. Djibouti City"],
+    "answer": "C"
+  }
+]
